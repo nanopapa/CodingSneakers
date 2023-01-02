@@ -37,7 +37,7 @@ section h2{
 }
 
 
-.fadecin{
+.fadein{
   opacity : 0;
   transform: translateY(20px);
   transition: all 1s;
