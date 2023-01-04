@@ -383,4 +383,9 @@ sp
   width: 100%;
 }
 
+.feature ul  {
+grid-template-columns: repeat(auto-fit,minmax(100%,1fr));
+}
+
+
 }
